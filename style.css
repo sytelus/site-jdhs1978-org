@@ -1,0 +1,103 @@
+
+div#logo a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#footer_text a {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 11px;
+  font-weight: normal;
+  color: #fff;
+  text-decoration: underline; white-space: nowrap;
+}
+
+    
+#logo {
+   background: url(resources/_wsb_logo.gif) no-repeat;
+}
+#key_visual {
+   background: url(resources/_wsb_keyvisual.jpg) no-repeat;
+}
+#text_caption {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+}
+#content_container h1 {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 26px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #900;
+}
+#content_container h2 {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #900;
+}
+#content_container h3 {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 15px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #900;
+}
+#content_container, #content_container p {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #220;
+}
+#content_container a:link {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #900;
+}
+#content_container a:visited {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #900;
+}
+#content_container a:hover {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #c00;
+}
+#content_container a:active {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #900;
+}
+#footer_text {
+  font-family: Tahoma,Verdana,Arial,Trebuchet MS,sans-serif;
+  font-style: normal;
+  font-size: 11px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+}
+
